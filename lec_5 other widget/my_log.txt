@@ -1,0 +1,2 @@
+[0m[1;34m# Check configuration tokens[0m
+[0m[1;34m# Ensure build layout[0m
